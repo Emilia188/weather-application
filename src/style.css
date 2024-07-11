@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(
+    109.6deg,
+    rgb(185, 212, 242) 11.2%,
+    rgb(244, 210, 226) 100.3%
+  );
+  font-family: "Poppins", sans-serif;
+}
+.weather-app {
+  background: white;
+  max-width: 600px;
+  margin: 50px auto;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 12px;
+  padding: 30px;
+}
